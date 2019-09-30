@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../scrapy/.idea/scrapy.iml" filepath="$PROJECT_DIR$/../scrapy/.idea/scrapy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/selenium.iml" filepath="$PROJECT_DIR$/.idea/selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium2/.idea/selenium2.iml" filepath="$PROJECT_DIR$/../selenium2/.idea/selenium2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium3/.idea/selenium3.iml" filepath="$PROJECT_DIR$/../selenium3/.idea/selenium3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium4/.idea/selenium4.iml" filepath="$PROJECT_DIR$/../selenium4/.idea/selenium4.iml" />
+    </modules>
+  </component>
+</project>
